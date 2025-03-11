@@ -27,5 +27,6 @@ https://darkcybercse.github.io/LeetCode_Profile_Checker/
 
 ![Screenshot (31)](https://github.com/user-attachments/assets/f85e5f47-71df-4d5d-8a73-e8a66f57ca0f)
 
-![image](https://github.com/user-attachments/assets/e3832e2a-6444-4650-9a79-bfb295de9576)
+
+![image](https://github.com/user-attachments/assets/2f4ed191-7a1f-426e-987d-0bd3d78ca83c)
 
