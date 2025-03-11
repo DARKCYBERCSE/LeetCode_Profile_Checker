@@ -20,3 +20,9 @@ Get Started:
 Clone the repository and follow the instructions in the README to set up LeetMatrix on your system. All you need is a valid LeetCode username to unlock the full potential of this tool.
 
 Start your journey to better coding insights with LeetMatrix!...
+
+LIVE DEMO LINK:
+
+https://darkcybercse.github.io/LeetCode_Profile_Checker/
+
+![Screenshot (31)](https://github.com/user-attachments/assets/f85e5f47-71df-4d5d-8a73-e8a66f57ca0f)
